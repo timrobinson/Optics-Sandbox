@@ -13,6 +13,7 @@ This script is based on a project conducted on Hawaii (big island).  A little ov
 Human factors concerns are another aspect of this discussion.  The color emitted from the replacement lamps should be significantly different than traffic light signals.  The rationale - a driver should not confuse a cautionary traffic light signal with a street light.  In addition, emergency responders should be able to have enough color rendering to judge certain colors.  The script in this repository addresses this latter concern by modeling how we would perceive a MacBeth Color Checker when illuminated with various lamps.  The first graphic contrasts typical daylight with an High Pressure Sodium (HPS) lamp.  The second graphic expands this contrast with multiple lamps.  
 
 
+
 ![MacBeth Color Checker](https://github.com/timrobinson/Optics-Sandbox/assets/15863043/5a394d86-5416-49cd-8851-524b6a848592)
 
 
